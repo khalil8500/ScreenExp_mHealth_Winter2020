@@ -1,0 +1,4 @@
+Segment, Number of arousing moments, Number of level 5 arousal
+1,19,32
+2,0,0
+3,8,0
